@@ -1,0 +1,11 @@
+http://localhost:3000/api/word
+http://localhost:3000/api/1
+http://localhost:3000/api/2
+http://localhost:3000/api/3
+http://localhost:3000/api/4
+http://localhost:3000/api/5
+http://localhost:3000/api/6
+http://localhost:3000/api/7
+http://localhost:3000/api/8
+http://localhost:3000/api/9
+http://localhost:3000/api/10
